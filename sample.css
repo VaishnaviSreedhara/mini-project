@@ -1,0 +1,32 @@
+body {
+    background-color: #8bf8d7; 
+    padding: 20px; 
+    text-align: center;
+  }
+
+  .page-container {
+    border: 1px solid #f61a1a; 
+    border-radius: 10px; 
+    background-color: #44b9ee; 
+    box-shadow: 0 0 10px rgba(59, 3, 118, 0.1); 
+    max-width: 1500px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    text-align: center;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    font-size: x-large;
+  }
+  
+  th {
+    background-color: #5689f0;
+  }
+  
